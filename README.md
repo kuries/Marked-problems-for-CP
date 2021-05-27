@@ -5,15 +5,8 @@ This repo is more of a self note and future reference than a source for problems
 
 But if you find these problems interesting then feel free to check them out.
 
-
-### Modular Equation
-- Problem:- https://www.codechef.com/MAY21C/problems/MODEQ
-- Editorial:- https://discuss.codechef.com/t/modeq-editorial/89335
-<!-- - Code: - -->
-
-### Tree House
-- Problem:- https://www.codechef.com/MAY21C/problems/THOUSES
-- Editorial:- https://discuss.codechef.com/t/thouses-editorial/89341
+### L-Shaped plots
+- [Problem](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509)
 
 ### Robot Collisions
 - Problem:- https://codeforces.com/contest/1525/problem/C
@@ -26,5 +19,11 @@ But if you find these problems interesting then feel free to check them out.
 > Editorial for all three
 - Editorial:- https://codeforces.com/blog/entry/90793
 
-### L-Shaped plots
-- [Problem](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509)
+### Modular Equation
+- Problem:- https://www.codechef.com/MAY21C/problems/MODEQ
+- Editorial:- https://discuss.codechef.com/t/modeq-editorial/89335
+<!-- - Code: - -->
+
+### Tree House
+- Problem:- https://www.codechef.com/MAY21C/problems/THOUSES
+- Editorial:- https://discuss.codechef.com/t/thouses-editorial/89341
