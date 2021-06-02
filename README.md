@@ -27,3 +27,7 @@ But if you find these problems interesting then feel free to check them out.
 ### Tree House
 - Problem:- https://www.codechef.com/MAY21C/problems/THOUSES
 - Editorial:- https://discuss.codechef.com/t/thouses-editorial/89341
+
+### K Subarrays
+- Problem:- https://www.codechef.com/LTIME96C/problems/CHESUB
+- Editorial:- https://discuss.codechef.com/t/chesub-editorial/90440
